@@ -1,0 +1,3 @@
+http://www.macoratti.net/19/07/aspnc_nhib1.htm
+
+database first -> A abordagem DataBase First é uma alternativa às abordagens Code-First e Model-First e cria um Entity Data Model (classes, propriedades, DBContext, etc) a partir de um banco de dados existente
